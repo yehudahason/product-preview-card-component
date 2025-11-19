@@ -107,6 +107,8 @@ p {
   margin: 0.5rem;
   width: calc(100% - 1rem);
   padding: 1rem 1.5rem;
+  font-weight: 700;
+  font-size: 1.2rem;
 }
 .btn:hover {
   background-color: var(--Green_700);
