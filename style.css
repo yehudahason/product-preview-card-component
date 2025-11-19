@@ -113,6 +113,7 @@ p {
 }
 .btn:hover {
   background-color: var(--Green_700);
+  cursor: pointer;
 }
 @media (min-width: 768px) {
   .container {
