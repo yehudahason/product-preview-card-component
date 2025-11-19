@@ -97,6 +97,7 @@ p {
 }
 .small-price {
   text-decoration: line-through;
+  color: var(--Grey);
 }
 .btn {
   display: block;
