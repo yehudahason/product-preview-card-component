@@ -15,4 +15,4 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Author
 
-Yehuda Hason
+- Frontend Mentor - [Yehuda Hason](https://www.frontendmentor.io/profile/yehudahason)
